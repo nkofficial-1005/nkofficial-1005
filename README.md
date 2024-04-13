@@ -62,8 +62,6 @@ _For more projects, visit my repositories._
 Let's connect and explore how we can collaborate on new projects, discuss fresh ideas, or simply share insights within the tech community.
 
 - **Email:** nikita.datascience@gmail.com
-- **LinkedIn:** [linkedin.com/in/nikitakohli-](http://www.linkedin.com/in/nikitakohli-/)
-- **GitHub:** [github.com/nkofficial-1005](https://github.com/nkofficial-1005)
 
 I'm excited about the opportunities to make a meaningful impact through technology and look forward to connecting with like-minded individuals.
 
