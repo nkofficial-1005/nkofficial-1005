@@ -2,6 +2,12 @@
 
 Welcome to my GitHub! I'm passionate about harnessing the power of data to solve complex problems. With a rich background in data science and software development, I'm currently exploring AI's potential to innovate and improve outcomes in various industries.
 
+<!-- GitHub Streak -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkofficial-1005&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- GitHub Stats -->
+![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkofficial-1005&show_icons=true&theme=radical)
+
 ## 🌟 About Me
 
 I'm based in Ontario, and I've had the opportunity to delve into data science through both academic and professional lenses. My journey has taken me from analyzing genomic data to enhancing decision-making processes with Artificial Intelligence (AI) at Ezofis. Each project has been a step towards understanding the vast capabilities of data and how it can be leveraged to create impactful solutions.
@@ -28,12 +34,6 @@ I'm based in Ontario, and I've had the opportunity to delve into data science th
 ---
 
 ### :fire: My Stats :
-
-<!-- GitHub Streak -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkofficial-1005&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!-- GitHub Stats -->
-![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkofficial-1005&show_icons=true&theme=radical)
 
 <!-- Compact Language Card Layout -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkofficial-1005&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
