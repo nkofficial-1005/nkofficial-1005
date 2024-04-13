@@ -84,7 +84,7 @@ I'm excited about the opportunities to make a meaningful impact through technolo
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Support%20Level-Tableau%20Supported-53bd92.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" title="MS-SQL" alt="MS-SQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
