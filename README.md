@@ -65,7 +65,7 @@ I'm excited about the opportunities to make a meaningful impact through technolo
   <img src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Icon-Obsolete2020Black.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/cloud.svg" title="Cloud Technologies" alt="Cloud Technologies" width="40" height="40"/>&nbsp; 
+  <!--img src="https://cdn.worldvectorlogo.com/logos/cloud.svg" title="Cloud Technologies" alt="Cloud Technologies" width="40" height="40"/>&nbsp; -->
   <!-- For tools or languages without a direct icon, you might use a generic or related icon and explain in the text -->
 </div>
 
