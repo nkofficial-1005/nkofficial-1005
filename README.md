@@ -4,9 +4,9 @@ Welcome to my GitHub! I'm passionate about harnessing the power of data to solve
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=nkofficial-1005&theme=dark&background=000000" height="195" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=nkofficial-1005&theme=dark&background=000000" height="185" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkofficial-1005&layout=compact&theme=vision-friendly-dark" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkofficial-1005&layout=compact&theme=vision-friendly-dark" height="185" />
 </p>
 
 ## 🌟 About Me
