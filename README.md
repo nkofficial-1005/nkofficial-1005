@@ -6,14 +6,8 @@ Welcome to my GitHub! I'm passionate about harnessing the power of data to solve
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=nkofficial-1005&theme=dark&background=000000" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=nkofficial-1005&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkofficial-1005&layout=compact&theme=vision-friendly-dark" />
 </p>
-
-<!-- GitHub Streak -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkofficial-1005&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!-- GitHub Stats -->
-![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkofficial-1005&show_icons=true&theme=radical)
 
 ## 🌟 About Me
 
@@ -41,9 +35,8 @@ I'm based in Ontario, and I've had the opportunity to delve into data science th
 ---
 
 ### :fire: My Stats :
-
-<!-- Compact Language Card Layout -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkofficial-1005&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats -->
+![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkofficial-1005&show_icons=true&theme=radical)
 
 ## 🌐 My Projects
 
