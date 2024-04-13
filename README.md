@@ -25,6 +25,22 @@ I'm based in Ontario, and I've had the opportunity to delve into data science th
 - Data Analyst, JunoTerra, New Delhi, India
 - Research Analyst Intern, Indian Society of Clinical Oncology, AIIMS, New Delhi, India
 
+---
+
+### :fire: My Stats :
+
+<!-- GitHub Streak -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkofficial-1005&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- GitHub Stats -->
+![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkofficial-1005&show_icons=true&theme=radical)
+
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkofficial-1005&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Compact Language Card Layout -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkofficial-1005&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌐 My Projects
 
 I've worked on a variety of projects that span across AI development, data analytics, and software optimization. Here are a few highlights:
