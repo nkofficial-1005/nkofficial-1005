@@ -35,9 +35,6 @@ I'm based in Ontario, and I've had the opportunity to delve into data science th
 <!-- GitHub Stats -->
 ![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkofficial-1005&show_icons=true&theme=radical)
 
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkofficial-1005&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Compact Language Card Layout -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkofficial-1005&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
