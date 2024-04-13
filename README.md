@@ -1,4 +1,4 @@
-# Hello, I'm Nikita Kohli! 👋
+# Hello, there! 👋
 
 Welcome to my GitHub! I'm passionate about harnessing the power of data to solve complex problems. With a rich background in data science and software development, I'm currently exploring AI's potential to innovate and improve outcomes in various industries.
 
@@ -13,17 +13,6 @@ Welcome to my GitHub! I'm passionate about harnessing the power of data to solve
 
 I'm based in Ontario, and I've had the opportunity to delve into data science through both academic and professional lenses. My journey has taken me from analyzing genomic data to enhancing decision-making processes with Artificial Intelligence (AI) at Ezofis. Each project has been a step towards understanding the vast capabilities of data and how it can be leveraged to create impactful solutions.
 
-📜 **Education:**
-
-- M.Sc. in Data Science, Thompson Rivers University, Kamloops, BC
-- B.Sc. in Mathematics, University of Delhi, New Delhi
-
-🏅 **Honors & Awards:**
-
-- 3-Minute Thesis Competition Winner & People’s Choice Award, Thompson Rivers University
-- Mrs. Manohar Lal Silver Medal for the Most Talented Student, University of Delhi
-- Certificate of Merit, Government of India
-
 👩‍💼 **Experience:**
 
 - AI Developer Intern, Ezofis, Ontario, Canada
@@ -31,32 +20,6 @@ I'm based in Ontario, and I've had the opportunity to delve into data science th
 - Graduate Research Mentor & Assistant, Thompson Rivers University, BC, Canada
 - Data Analyst, JunoTerra, New Delhi, India
 - Research Analyst Intern, Indian Society of Clinical Oncology, AIIMS, New Delhi, India
-
----
-
-### :fire: My Stats :
-<!-- GitHub Stats -->
-![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkofficial-1005&show_icons=true&theme=radical)
-
-## 🌐 My Projects
-
-I've worked on a variety of projects that span across AI development, data analytics, and software optimization. Here are a few highlights:
-
-1. **Satim Web App:** A Flask application designed to enhance global green index calculations through satellite image analysis.
-2. **PentaPen Classifier:** A novel cascaded classifier and regressor increasing predictive accuracy by 10%.
-3. **AI-Powered Text Detection:** Leveraged Azure OCR to increase text detection accuracy by 15%.
-
-_For more projects, visit my repositories._
-
-## 📫 Get in Touch
-
-Let's connect and explore how we can collaborate on new projects, discuss fresh ideas, or simply share insights within the tech community.
-
-- **Email:** nikita.datascience@gmail.com
-
-I'm excited about the opportunities to make a meaningful impact through technology and look forward to connecting with like-minded individuals.
-
-⭐ Don't forget to check out my repositories and follow me here on GitHub for the latest updates on my projects!
 
 ---
 
@@ -81,6 +44,33 @@ I'm excited about the opportunities to make a meaningful impact through technolo
   <!--img src="https://cdn.worldvectorlogo.com/logos/cloud.svg" title="Cloud Technologies" alt="Cloud Technologies" width="40" height="40"/>&nbsp; -->
   <!-- For tools or languages without a direct icon, you might use a generic or related icon and explain in the text -->
 </div>
+
+## 🌐 My Projects
+
+I've worked on a variety of projects that span across AI development, data analytics, and software optimization. Here are a few highlights:
+
+1. **Satim Web App:** A Flask application designed to enhance global green index calculations through satellite image analysis.
+2. **PentaPen Classifier:** A novel cascaded classifier and regressor increasing predictive accuracy by 10%.
+3. **AI-Powered Text Detection:** Leveraged Azure OCR to increase text detection accuracy by 15%.
+
+_For more projects, visit my repositories._
+
+---
+
+### :fire: My Stats :
+<!-- GitHub Stats -->
+![your-github-username's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkofficial-1005&show_icons=true&theme=radical)
+
+
+## 📫 Get in Touch
+
+Let's connect and explore how we can collaborate on new projects, discuss fresh ideas, or simply share insights within the tech community.
+
+- **Email:** nikita.datascience@gmail.com
+
+I'm excited about the opportunities to make a meaningful impact through technology and look forward to connecting with like-minded individuals.
+
+⭐ Don't forget to check out my repositories and follow me here on GitHub for the latest updates on my projects!
 
 <!--
 **nkofficial-1005/nkofficial-1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
