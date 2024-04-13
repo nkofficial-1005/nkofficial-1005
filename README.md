@@ -2,6 +2,13 @@
 
 Welcome to my GitHub! I'm passionate about harnessing the power of data to solve complex problems. With a rich background in data science and software development, I'm currently exploring AI's potential to innovate and improve outcomes in various industries.
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=nkofficial-1005&theme=dark&background=000000" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nkofficial-1005&show_icons=true&theme=radical" />
+</p>
+
 <!-- GitHub Streak -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkofficial-1005&theme=dark&background=000000)](https://git.io/streak-stats)
 
