@@ -25,28 +25,6 @@ I'm based in Ontario, and I've had the opportunity to delve into data science th
 - Data Analyst, JunoTerra, New Delhi, India
 - Research Analyst Intern, Indian Society of Clinical Oncology, AIIMS, New Delhi, India
 
-## 🔧 Skills & Technologies
-
-Leveraging a strong background in data science and machine learning, I've developed a robust set of skills that enable me to create impactful, data-driven solutions.
-
-### Core Languages
-- **Python, R, SQL:** For data analysis, machine learning, and database management.
-- **TypeScript & HTML:** For web development projects.
-
-### Frameworks & Libraries
-- **Flask & Angular:** For developing web applications and RESTful APIs.
-- **React Native:** To create cross-platform mobile applications.
-
-### Tools & Platforms
-- **Cloud Services:** Experience with Amazon Sagemaker, MS ML Azure, and IBM Watson.
-- **Data Analysis & Visualization:** Proficient with MS Power BI, Tableau, and Excel.
-
-### Methodologies
-- **Machine Learning/Deep Learning:** Practical experience implementing models like XGBoost, and Random Forest, and using Bayesian approaches.
-- **Data Management:** Knowledge in handling data lakes, and warehouses, and applying feature engineering techniques.
-
-By integrating these skills, I strive to bring innovative solutions and insights to the forefront of technology and data science.
-
 ## 🌐 My Projects
 
 I've worked on a variety of projects that span across AI development, data analytics, and software optimization. Here are a few highlights:
@@ -87,6 +65,7 @@ I'm excited about the opportunities to make a meaningful impact through technolo
   <img src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Icon-Obsolete2020Black.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/cloud.svg" title="Cloud Technologies" alt="Cloud Technologies" width="40" height="40"/>&nbsp; 
   <!-- For tools or languages without a direct icon, you might use a generic or related icon and explain in the text -->
 </div>
 
