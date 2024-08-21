@@ -15,7 +15,7 @@ I'm based in Ontario, and I've had the opportunity to delve into data science th
 
 👩‍💼 **Experience:**
 
-- AI Developer, Ezofis, Ontario, Canada
+- Data Scientist/ AI Developer, Ezofis, Ontario, Canada
 - Software Developer, Ezofis, Ontario, Canada
 - Graduate Research Mentor & Assistant, Thompson Rivers University, BC, Canada
 - Data Analyst, JunoTerra, New Delhi, India
